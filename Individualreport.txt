@@ -1,0 +1,24 @@
+Gandeev Niraula
+Individual Progress Report
+Senior Design Project CSC 480
+
+1.Briefly describe your project.
+-Our project is an online web application for a Restaurant/Food truck which will be built on a .NET platform. The project consists of front end and backend which will be built 
+through Visual Studio with SQL Server database. We have named the project to be Restaurant Delivery and Pickup System (RDPS) which is based on the idea through which user can order 
+food from a restaurant/food truck using this website.
+	
+2.What is your particular role in the project?
+-I will be working as a front-end developer in the project. My role includes, but are not limited to performing architecture design, use case determination, web page design and 
+        coding.
+
+3.What have you done personally in the two weeks leading up to Feb. 24?
+-We are pursuing the same project that we worked on for our Software Design class. One of our project members is a new addition to the project. So, I briefed him about what we 
+have done so far and what we need to work on in order to continue our project. We were having some connection issues with our signup page which we were able to fix in last two 
+weeks. I have also been working on redesigning the home page by adding image sliding property to it.
+
+4.Describe any significant progress made by the team as a whole in this time period.
+-We have been able to complete the review of the Requirements gathering and system design and distribute work among us as a team during this time period.
+
+5.Give a link to the journal file in your repository.
+
+
