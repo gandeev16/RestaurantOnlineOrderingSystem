@@ -1,0 +1,14 @@
+Gandeev Niraula	
+Individual Progress Report
+
+1.What have you done personally since your last progress report?
+- I have been working on administration module since my last progress report.
+  We are now thinking about wrapping up our project for final presentation
+  and start working on our report.
+
+2.Describe any significant progress made by the team as a whole in this time
+  period?
+- We as a team been able to test all the pages that we have completed so far
+  for this project which are Master Page (Layout Page that provides consistency 
+  in design) which, index(Home) Page,Signup Page, Login Page, Menu Page,
+  Add to Cart Page.

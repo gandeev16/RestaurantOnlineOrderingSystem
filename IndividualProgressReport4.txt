@@ -1,0 +1,12 @@
+1. What have you done personally since your last progress report?
+- I have been working to fix the bugs in our program and also working on
+  the admin panel where admin can add, update and delete new categories 
+  products in the website.I am also working on the report and final presentation.
+
+2.Describe any significant progress made by the team as a whole in this time period.
+- We have been able to complete the user and admin module of the project. In user 
+  module, one can become member of the site using signup page, login to the website and
+  view and add products to the cart. After placing order, users will see order number and
+  order details. In admin module,admin can add, update and delete new categories and 
+  whatever is added by admin will automatically be shown to the user.
+
